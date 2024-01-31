@@ -1,5 +1,6 @@
 """This is a clone of the perceptron algorithm heavily influenced by the code
-provided to me by my professor of machine learning, Sarath Sreedharan."""
+provided to me by my professor of machine learning, Dr. Sarath Sreedharan.
+"""
 
 import matplotlib.pyplot as plt
 import numpy as np
