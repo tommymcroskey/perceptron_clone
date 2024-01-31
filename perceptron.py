@@ -7,7 +7,8 @@ import numpy as np
 
 class perceptron:
     """As is the example given to me, this implementation of the
-    perceptron algorith will not feature a bias term."""
+    perceptron algorith will not feature a bias term.
+    """
 
     def __init__(self, iterations=100, learning_rate=.1,
                  plot_data=False, random_w=False, seed=10):
